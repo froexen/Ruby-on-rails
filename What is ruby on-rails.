@@ -1,0 +1,22 @@
+Ruby on-rails es unb framework de aplicaciones web específico para programación en Ruby. Éste lenguaaje es muy añorado por principiantes 
+por su curva de aprendizaje inicial muy flexible, incluso no necesitas saber programar.
+Rails está, como se dijo anteriormente, escrito en Ruby. Está diseñado para programar aplicaciones web de manera asencilla mientras
+lo prepara para entender todas las herramientas que éste posee. Una de sus funciones es el cómo escoje la "mejor" manera de hacer
+las cosas, y descarta las opciones que menos convienen, para incrementar la productividad del proyecto. 
+Este framework supone que te adaptes a sus funcionalidades, y dejes viejos hábitos que llegaste a hacer en otros lenguajes de 
+programación.
+
+Rails tiene 2 filosofías:
+
+1. No repitas cosas: La lógica debe ser simple y sencillo.
+2. Convención sobre configuración: Automatiza y ordena tus proyectos.
+
+Existen guías para introducirte en el lenguaje como las siguientes: 
+
+Guía 1: https://www.ruby-lang.org/en/documentation/
+Guía 2: https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#ruby
+
+
+
+
+
